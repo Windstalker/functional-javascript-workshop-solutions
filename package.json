@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "functional-javascript-workshop",
+    "print": "functional-javascript-workshop print",
     "run": "functional-javascript-workshop run",
     "verify": "functional-javascript-workshop verify",
     "test": "echo \"Error: no test specified\" && exit 1"
