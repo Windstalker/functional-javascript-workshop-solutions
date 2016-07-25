@@ -4,11 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "functional-javascript-workshop",
+    "run": "functional-javascript-workshop run",
+    "verify": "functional-javascript-workshop verify",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Windstalker/functional-javascript-workshop-solutions.git"
+    "url": "https://github.com/Windstalker/functional-javascript-workshop-solutions.git"
   },
   "eslintConfig": {
     "extends": "airbnb-base"
@@ -24,5 +27,8 @@
     "eslint": "^3.1.1",
     "eslint-config-airbnb-base": "^5.0.0",
     "eslint-plugin-import": "^1.11.1"
+  },
+  "dependencies": {
+    "functional-javascript-workshop": "^1.0.5"
   }
 }
