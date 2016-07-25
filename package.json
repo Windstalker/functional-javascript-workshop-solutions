@@ -1,0 +1,28 @@
+{
+  "name": "LearnFunctionalJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Windstalker/functional-javascript-workshop-solutions.git"
+  },
+  "eslintConfig": {
+    "extends": "airbnb-base"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Windstalker/functional-javascript-workshop-solutions/issues"
+  },
+  "homepage": "https://github.com/Windstalker/functional-javascript-workshop-solutions#readme",
+  "devDependencies": {
+    "eslint": "^3.1.1",
+    "eslint-config-airbnb-base": "^5.0.0",
+    "eslint-plugin-import": "^1.11.1"
+  }
+}
