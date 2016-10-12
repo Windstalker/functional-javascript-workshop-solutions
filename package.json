@@ -15,7 +15,11 @@
     "url": "https://github.com/Windstalker/functional-javascript-workshop-solutions.git"
   },
   "eslintConfig": {
-    "extends": "airbnb-base"
+    "extends": "airbnb-base",
+    "rules": {
+      "prefer-const": 0,
+      "no-param-reassign": 1
+    }
   },
   "keywords": [],
   "author": "",
